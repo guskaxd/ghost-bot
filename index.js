@@ -1555,7 +1555,7 @@ client.on('interactionCreate', async (interaction) => {
 
     const newIndicationCoupons = ['SOUZASETE', 'MT', 'RNUNES', 'DG', 'GREENZADA', 'BLACKGG', 
     'COQUIN7', 'NIKEGREEN', 'THCARRILLO', 'GOMESCITY', 'ITZGOD', 'CRUSHER', 
-    'VICENTE', 'VINNY10', 'DIONIS', 'ORIENTES', 'UBITA', 'ROSENDO' ];
+    'VICENTE', 'VINNY10', 'DIONIS', 'ORIENTES', 'UBITA', 'ROSENDO', 'LONTRA' ];
 
 // SUBSTITUA TODA A INTERAÇÃO 'formulario_saldo' POR ESTA
 if (interaction.isModalSubmit() && interaction.customId === 'formulario_saldo') {
